@@ -1,6 +1,15 @@
 {
   "rule": "https://github.com/ippcteam/SN21-adtao/blob/main/docs/SN21_MODEL_PRIVACY.md",
   "from": "2026-11-16",
-  "as_of": "2026-11-20",
-  "released": []
+  "as_of": "2026-11-21",
+  "released": [
+    {
+      "digest": "sha256:f3588a4bb55c9b51a6afa3f06c8b637320765cbf0fb24945e8b1ac587e9c22af",
+      "hotkey": "5FRtbuEpXt2Bqy5Q1Px4GXK6QLUgEVSsmpefbJ2x9mDkg3FK",
+      "released_on": "2026-11-21",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-16",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:f3588a4bb55c9b51a6afa3f06c8b637320765cbf0fb24945e8b1ac587e9c22af"
+    }
+  ]
 }
