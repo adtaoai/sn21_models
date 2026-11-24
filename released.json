@@ -1,7 +1,7 @@
 {
   "rule": "https://github.com/ippcteam/SN21-adtao/blob/main/docs/SN21_MODEL_PRIVACY.md",
   "from": "2026-11-16",
-  "as_of": "2026-11-23",
+  "as_of": "2026-11-24",
   "released": [
     {
       "digest": "sha256:f3588a4bb55c9b51a6afa3f06c8b637320765cbf0fb24945e8b1ac587e9c22af",
@@ -74,6 +74,38 @@
       "reason": "left_earning_set",
       "closed_since": "2026-11-16",
       "copy": "ghcr.io/adtaoai/sn21-released@sha256:f6bd7a812ac3f6ef177310ff60103989c3a43abf93f426411b2d828e436b44e6"
+    },
+    {
+      "digest": "sha256:21ef67b6913278f38ab0d642b440784582abaa60a69293675956da4103ec60a3",
+      "hotkey": "5EADHaLRcaynaWjpZNL4LMDw3yDmAzDsxMFBcB2vtN2EhoSw",
+      "released_on": "2026-11-24",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-19",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:21ef67b6913278f38ab0d642b440784582abaa60a69293675956da4103ec60a3"
+    },
+    {
+      "digest": "sha256:8761b99b20a50232bb31b4364fde44fc9b5c437fc5dc6abc9b092dc53ec9a912",
+      "hotkey": "5CPuRiA715x8PbZetpxfvamsAB4h69Q7Em2sQAUqFK2wfBxe",
+      "released_on": "2026-11-24",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-16",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:8761b99b20a50232bb31b4364fde44fc9b5c437fc5dc6abc9b092dc53ec9a912"
+    },
+    {
+      "digest": "sha256:974962b4f4e8da1708dd93f573aabc625daf01079f450d525915bdb9c55e80a2",
+      "hotkey": "5Ebud62x7YLbqzLJsVjRXjq2PJMs3v5ZiMGhvC7PM6RoL5yD",
+      "released_on": "2026-11-24",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-19",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:974962b4f4e8da1708dd93f573aabc625daf01079f450d525915bdb9c55e80a2"
+    },
+    {
+      "digest": "sha256:aa3ef2c5ee1f400c886442655a38cf31141d7cb37d52e141d1fbf01d4bb3e8ed",
+      "hotkey": "5Hj8es3LdTndtNb5zJxjAuXsxgxebhGWpohDeoZQaaaFoLE2",
+      "released_on": "2026-11-24",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-19",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:aa3ef2c5ee1f400c886442655a38cf31141d7cb37d52e141d1fbf01d4bb3e8ed"
     }
   ]
 }
