@@ -3,7 +3,7 @@
 Models released under the SN21 model release rule ([SN21_MODEL_PRIVACY.md](https://github.com/ippcteam/SN21-adtao/blob/main/docs/SN21_MODEL_PRIVACY.md)).
 A released digest stays released. `copy` is the operator's public copy of the same digest.
 
-Rule observed from 2026-11-16; list as of 2026-11-25. Machine-readable: [released.json](released.json).
+Rule observed from 2026-11-16; list as of 2026-11-26. Machine-readable: [released.json](released.json).
 
 | Released on | Reason | Hotkey | Digest | Copy |
 | :--- | :--- | :--- | :--- | :--- |
@@ -33,3 +33,6 @@ Rule observed from 2026-11-16; list as of 2026-11-25. Machine-readable: [release
 | 2026-11-25 | left_earning_set | `5Dk51DwVbjG61zbLkJZ9kUedTMXYGM2HswJeiXUszZzgmyRj` | `sha256:97a0169c03c7f9a017e41f4b63491f6ab283b1f782af27e6fc554f678d6bd4ff` | `ghcr.io/adtaoai/sn21-released@sha256:97a0169c03c7f9a017e41f4b63491f6ab283b1f782af27e6fc554f678d6bd4ff` |
 | 2026-11-25 | left_earning_set | `5FhYKhvhg1jh6AfymordzFREULcBNJtTrVsPBBLZVACmT9ge` | `sha256:ecaaebbaa3d1a78bce0ba73512f988ba47bd635c23b1413fc441c656a2dc305c` | `ghcr.io/adtaoai/sn21-released@sha256:ecaaebbaa3d1a78bce0ba73512f988ba47bd635c23b1413fc441c656a2dc305c` |
 | 2026-11-25 | left_earning_set | `5Hj8es3LdTndtNb5zJxjAuXsxgxebhGWpohDeoZQaaaFoLE2` | `sha256:f99dbfcfacb42a280ee68740bfe0e6d7e813558649b0043ea2f066fa763e535b` | `ghcr.io/adtaoai/sn21-released@sha256:f99dbfcfacb42a280ee68740bfe0e6d7e813558649b0043ea2f066fa763e535b` |
+| 2026-11-26 | left_earning_set | `5EADHaLRcaynaWjpZNL4LMDw3yDmAzDsxMFBcB2vtN2EhoSw` | `sha256:b1951b883a80f9f8de4b77daee87f039686b1b96f95ee9128ef6798f28e4cb06` | `ghcr.io/adtaoai/sn21-released@sha256:b1951b883a80f9f8de4b77daee87f039686b1b96f95ee9128ef6798f28e4cb06` |
+| 2026-11-26 | left_earning_set | `5H6Bk4ggAWFnufZED2ziGjnxnpLCM8A4mhRkiX2ZC3V7UMJr` | `sha256:c3216f875f89bdcf23788b344c7a79ee35132616fc44f9cc291ec0ad71f11c6b` | `ghcr.io/adtaoai/sn21-released@sha256:c3216f875f89bdcf23788b344c7a79ee35132616fc44f9cc291ec0ad71f11c6b` |
+| 2026-11-26 | left_earning_set | `5Hj8es3LdTndtNb5zJxjAuXsxgxebhGWpohDeoZQaaaFoLE2` | `sha256:d12e4c1d6d0eba47ca6e64148e49d9745fcf4c2665d0982cd5597181f86d62ab` | `ghcr.io/adtaoai/sn21-released@sha256:d12e4c1d6d0eba47ca6e64148e49d9745fcf4c2665d0982cd5597181f86d62ab` |
