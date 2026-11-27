@@ -3,7 +3,7 @@
 Models released under the SN21 model release rule ([SN21_MODEL_PRIVACY.md](https://github.com/ippcteam/SN21-adtao/blob/main/docs/SN21_MODEL_PRIVACY.md)).
 A released digest stays released. `copy` is the operator's public copy of the same digest.
 
-Rule observed from 2026-11-16; list as of 2026-11-26. Machine-readable: [released.json](released.json).
+Rule observed from 2026-11-16; list as of 2026-11-27. Machine-readable: [released.json](released.json).
 
 | Released on | Reason | Hotkey | Digest | Copy |
 | :--- | :--- | :--- | :--- | :--- |
@@ -36,3 +36,10 @@ Rule observed from 2026-11-16; list as of 2026-11-26. Machine-readable: [release
 | 2026-11-26 | left_earning_set | `5EADHaLRcaynaWjpZNL4LMDw3yDmAzDsxMFBcB2vtN2EhoSw` | `sha256:b1951b883a80f9f8de4b77daee87f039686b1b96f95ee9128ef6798f28e4cb06` | `ghcr.io/adtaoai/sn21-released@sha256:b1951b883a80f9f8de4b77daee87f039686b1b96f95ee9128ef6798f28e4cb06` |
 | 2026-11-26 | left_earning_set | `5H6Bk4ggAWFnufZED2ziGjnxnpLCM8A4mhRkiX2ZC3V7UMJr` | `sha256:c3216f875f89bdcf23788b344c7a79ee35132616fc44f9cc291ec0ad71f11c6b` | `ghcr.io/adtaoai/sn21-released@sha256:c3216f875f89bdcf23788b344c7a79ee35132616fc44f9cc291ec0ad71f11c6b` |
 | 2026-11-26 | left_earning_set | `5Hj8es3LdTndtNb5zJxjAuXsxgxebhGWpohDeoZQaaaFoLE2` | `sha256:d12e4c1d6d0eba47ca6e64148e49d9745fcf4c2665d0982cd5597181f86d62ab` | `ghcr.io/adtaoai/sn21-released@sha256:d12e4c1d6d0eba47ca6e64148e49d9745fcf4c2665d0982cd5597181f86d62ab` |
+| 2026-11-27 | left_earning_set | `5CyNhxetppJbbjneqkSN12mZpodk9e7GvPV2nLSJ8agPY2zu` | `sha256:2f7a42860e31c131b8e0a9bd82916ad609187d5b3dc5b5442080cf9edff28e20` | `ghcr.io/adtaoai/sn21-released@sha256:2f7a42860e31c131b8e0a9bd82916ad609187d5b3dc5b5442080cf9edff28e20` |
+| 2026-11-27 | left_earning_set | `5HKyrDwN1Mk3Nbc8gTUa9n5QFGeKEv57asn52iDruJW94JmW` | `sha256:3b093ee235689c61e578956cf39eaa821c4e51eac888a80f124f3aea6870d2d3` | `ghcr.io/adtaoai/sn21-released@sha256:3b093ee235689c61e578956cf39eaa821c4e51eac888a80f124f3aea6870d2d3` |
+| 2026-11-27 | left_earning_set | `5EADHaLRcaynaWjpZNL4LMDw3yDmAzDsxMFBcB2vtN2EhoSw` | `sha256:47d1c27ff9a5e72ebcf5c90a604964bc949329cffcf209442437971fe368e111` | `ghcr.io/adtaoai/sn21-released@sha256:47d1c27ff9a5e72ebcf5c90a604964bc949329cffcf209442437971fe368e111` |
+| 2026-11-27 | left_earning_set | `5FCiHj1RATFdGC8GV1R1XJF1vddnbG4bc2FsLb4jKGmM5jzr` | `sha256:507b5a50427cf5d4ff9c4998957df943f7e381915fcada675ec02495724c7768` | `ghcr.io/adtaoai/sn21-released@sha256:507b5a50427cf5d4ff9c4998957df943f7e381915fcada675ec02495724c7768` |
+| 2026-11-27 | left_earning_set | `5FcTfk7jdnBa9cFGzS3NhWJ5UzyxkWv2Y2qxghRZTekE6vV3` | `sha256:88f9316b59a14b9f3c267e28041f576a1ab7cfc8652debfe49a3b6a69da364b8` | `ghcr.io/adtaoai/sn21-released@sha256:88f9316b59a14b9f3c267e28041f576a1ab7cfc8652debfe49a3b6a69da364b8` |
+| 2026-11-27 | left_earning_set | `5D4chHCmrUY7XZg7uz3UX213LVWg3fHiQcptsRiBs5ZZfCcW` | `sha256:e3b0d306a91f3c5198c6b64ec50a38245d4de59ab78ab373561ef2ce3972eae2` | `ghcr.io/adtaoai/sn21-released@sha256:e3b0d306a91f3c5198c6b64ec50a38245d4de59ab78ab373561ef2ce3972eae2` |
+| 2026-11-27 | left_earning_set | `5FhYKhvhg1jh6AfymordzFREULcBNJtTrVsPBBLZVACmT9ge` | `sha256:f4ac706457e996bd812742a82eaa93c5c6e184c4c5bac9ee9f64a0210db7ed0f` | `ghcr.io/adtaoai/sn21-released@sha256:f4ac706457e996bd812742a82eaa93c5c6e184c4c5bac9ee9f64a0210db7ed0f` |
