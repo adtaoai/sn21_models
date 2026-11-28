@@ -1,7 +1,7 @@
 {
   "rule": "https://github.com/ippcteam/SN21-adtao/blob/main/docs/SN21_MODEL_PRIVACY.md",
   "from": "2026-11-16",
-  "as_of": "2026-11-27",
+  "as_of": "2026-11-28",
   "released": [
     {
       "digest": "sha256:f3588a4bb55c9b51a6afa3f06c8b637320765cbf0fb24945e8b1ac587e9c22af",
@@ -290,6 +290,70 @@
       "reason": "left_earning_set",
       "closed_since": "2026-11-21",
       "copy": "ghcr.io/adtaoai/sn21-released@sha256:f4ac706457e996bd812742a82eaa93c5c6e184c4c5bac9ee9f64a0210db7ed0f"
+    },
+    {
+      "digest": "sha256:029d2c9ff90b17672e7555c0e9df63ae6e499b2ac6afc9dc94b2938786d89b24",
+      "hotkey": "5Da546XAqKTNfhHF5zzTWB6LhjpJXfGx5ayhryA9A5dDeLsB",
+      "released_on": "2026-11-28",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-21",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:029d2c9ff90b17672e7555c0e9df63ae6e499b2ac6afc9dc94b2938786d89b24"
+    },
+    {
+      "digest": "sha256:36905ff23a30cf8366ab0d0a40a174d29bafb9319ec7048b4fc927e1c0d85cd9",
+      "hotkey": "5Ebud62x7YLbqzLJsVjRXjq2PJMs3v5ZiMGhvC7PM6RoL5yD",
+      "released_on": "2026-11-28",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-21",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:36905ff23a30cf8366ab0d0a40a174d29bafb9319ec7048b4fc927e1c0d85cd9"
+    },
+    {
+      "digest": "sha256:6eee130394ea85295348a9ae22bfa3f66cbf319601611df99eff0f5607333f2f",
+      "hotkey": "5CtypKXLdFhfcJzjFiRfB7GdxYLHuJ4dzsYLWyPBac1J3TaM",
+      "released_on": "2026-11-28",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-23",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:6eee130394ea85295348a9ae22bfa3f66cbf319601611df99eff0f5607333f2f"
+    },
+    {
+      "digest": "sha256:7cef9fb9a9e8482b435655a13287a4bc1f1f59c64eafc33ae7ae27506866396c",
+      "hotkey": "5FCiHj1RATFdGC8GV1R1XJF1vddnbG4bc2FsLb4jKGmM5jzr",
+      "released_on": "2026-11-28",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-23",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:7cef9fb9a9e8482b435655a13287a4bc1f1f59c64eafc33ae7ae27506866396c"
+    },
+    {
+      "digest": "sha256:a8509b56be685ac2ce8eafb6f5f33ed7487e814f65074ebf1c353193c0e3220a",
+      "hotkey": "5FhYKhvhg1jh6AfymordzFREULcBNJtTrVsPBBLZVACmT9ge",
+      "released_on": "2026-11-28",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-23",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:a8509b56be685ac2ce8eafb6f5f33ed7487e814f65074ebf1c353193c0e3220a"
+    },
+    {
+      "digest": "sha256:af5d0b6b5c0b114e9b56ac89ca957ac5547948f28e5269e473732bf2e2d403b1",
+      "hotkey": "5D4chHCmrUY7XZg7uz3UX213LVWg3fHiQcptsRiBs5ZZfCcW",
+      "released_on": "2026-11-28",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-23",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:af5d0b6b5c0b114e9b56ac89ca957ac5547948f28e5269e473732bf2e2d403b1"
+    },
+    {
+      "digest": "sha256:d3f40aa9f01609e55f9bc9295c9cd46b0b453b59632d9d66d31017b6d4a4e354",
+      "hotkey": "5Evf2ADD2sTo2whLDSyArbU9rVDVHd7ggAWy47y9GreovoUX",
+      "released_on": "2026-11-28",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-16",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:d3f40aa9f01609e55f9bc9295c9cd46b0b453b59632d9d66d31017b6d4a4e354"
+    },
+    {
+      "digest": "sha256:f5d6b6179f5599da7163e777ab4a3d61968ce43e1f644e12f3331db10c9fbf73",
+      "hotkey": "5CkN6VWrAKs4xK4X3DF2wwXB4QFnWEQHfKXXqzYFLrkBM5mp",
+      "released_on": "2026-11-28",
+      "reason": "left_earning_set",
+      "closed_since": "2026-11-21",
+      "copy": "ghcr.io/adtaoai/sn21-released@sha256:f5d6b6179f5599da7163e777ab4a3d61968ce43e1f644e12f3331db10c9fbf73"
     }
   ]
 }
